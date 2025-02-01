@@ -1,0 +1,7 @@
+trae
+lightshot
+nvm
+node
+bun
+git
+oh-my-zsh
